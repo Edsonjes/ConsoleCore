@@ -2,3 +2,4 @@ bin
 obj
 .vccode
 .vs
+.DS_Store
